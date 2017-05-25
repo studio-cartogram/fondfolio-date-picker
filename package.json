@@ -1,7 +1,7 @@
 {
   "name": "fondfolio-date-picker",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "main": "lib/index.js",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
