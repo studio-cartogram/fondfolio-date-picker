@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import DatePicker from 'components/DatePicker'
+import DatePicker from 'DatePicker'
 
 class App extends Component {
   state = {
