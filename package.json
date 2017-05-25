@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "styled-components": "^2.0.0"
   },
   "devDependencies": {
     "autoprefixer": "7.1.0",
@@ -51,7 +52,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "node scripts/test.js --env=jsdom",
+    "lib": "babel src/node_modules --out-dir lib --copy-files"
   },
   "jest": {
     "collectCoverageFrom": [
