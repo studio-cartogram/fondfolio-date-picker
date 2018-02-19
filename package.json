@@ -1,6 +1,6 @@
 {
   "name": "fondfolio-date-picker",
-  "version": "0.0.32",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "dependencies": {
     "prop-types": "^15.6.0",
