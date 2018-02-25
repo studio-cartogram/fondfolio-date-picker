@@ -1,7 +1,11 @@
-A Dead Simple Date Picker.
+A Dead Simple Date Picker for use on [fondfolio.com](https://fondfolio.com)
 
-### To Update
+### To Update this library:
+First build the library with:
+
 ```yarn run lib```
+
+Update the npm package:
 ```npm publish```
 
 #### Resources

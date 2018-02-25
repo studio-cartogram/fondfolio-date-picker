@@ -1,7 +1,8 @@
 {
   "name": "fondfolio-date-picker",
-  "version": "0.0.5",
+  "version": "0.0.51",
   "main": "lib/index.js",
+  "repository": "https://github.com/studio-cartogram/fondfolio-date-picker",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
